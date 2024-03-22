@@ -28,11 +28,11 @@ document.getElementById('iconSmall').src = iconInfo.icon;
 
 // ======== get images URL ========
 const imageUrl = [
-    'https://image-public-sharing.on.fleek.co/images/img1.jpg',
-    'https://image-public-sharing.on.fleek.co/images/img2.jpg',
-    'https://image-public-sharing.on.fleek.co/images/img3.jpg',
-    'https://image-public-sharing.on.fleek.co/images/img4.jpg',
-    'https://image-public-sharing.on.fleek.co/images/img5.jpg'
+    'https://vn-appstore.com/id010597666/images/img1.jpg',
+    'https://vn-appstore.com/id010597666/images/img2.jpg',
+    'https://vn-appstore.com/id010597666/images/img3.jpg',
+    'https://vn-appstore.com/id010597666/images/img4.jpg',
+    'https://vn-appstore.com/id010597666/images/img5.jpg'
 ];
          
 const images = document.getElementById('image-items');
